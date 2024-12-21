@@ -1,0 +1,764 @@
+[
+    {
+      "name": "Fried Egg",
+      "sell_price": 50,
+      "ingredients": [
+        "Egg"
+      ],
+      "recipe_obtained": "Unlocked by default"
+    },
+    {
+      "name": "Omelet",
+      "sell_price": 150,
+      "ingredients": [
+        "Egg",
+        "Milk"
+      ],
+      "recipe_obtained": "Purchased from Gus at the Stardrop Saloon for 100g"
+    },
+    {
+      "name": "Salad",
+      "sell_price": 200,
+      "ingredients": [
+        "Lettuce",
+        "Cucumber"
+      ],
+      "recipe_obtained": "Purchased from Pierre's shop for 200g"
+    },
+    {
+      "name": "Cheese Cauliflower",
+      "sell_price": 350,
+      "ingredients": [
+        "Cauliflower",
+        "Cheese"
+      ],
+      "recipe_obtained": "Found in the 'Cooking' tab in the inventory, unlocked by reaching Farming Level 6"
+    },
+    {
+      "name": "Baked Fish",
+      "sell_price": 200,
+      "ingredients": [
+        "Fish"
+      ],
+      "recipe_obtained": "Received as a gift from Willy (Fishing Shop) after reaching fishing level 4"
+    },
+    {
+      "name": "Parsnip Soup",
+      "sell_price": 175,
+      "ingredients": [
+        "Parsnip",
+        "Water"
+      ],
+      "recipe_obtained": "Received as a gift from Gus (Stardrop Saloon)"
+    },
+    {
+      "name": "Vegetable Medley",
+      "sell_price": 250,
+      "ingredients": [
+        "Carrot",
+        "Potato",
+        "Parsnip"
+      ],
+      "recipe_obtained": "Received from Caroline after reaching 2 hearts of friendship"
+    },
+    {
+      "name": "Complete Breakfast",
+      "sell_price": 450,
+      "ingredients": [
+        "Egg",
+        "Bacon",
+        "Hashbrowns",
+        "Toast"
+      ],
+      "recipe_obtained": "Received from Robin after reaching 3 hearts of friendship"
+    },
+    {
+      "name": "Fried Calamari",
+      "sell_price": 600,
+      "ingredients": [
+        "Calamari"
+      ],
+      "recipe_obtained": "Received from the traveling cart for 200g"
+    },
+    {
+      "name": "Strange Bun",
+      "sell_price": 150,
+      "ingredients": [
+        "Wheat Flour",
+        "Void Mayonnaise"
+      ],
+      "recipe_obtained": "Received as a gift from Krobus after reaching 4 hearts of friendship"
+    },
+    {
+        "name": "Lucky Lunch",
+        "sell_price": 350,
+        "ingredients": [
+          "Sea Cucumber",
+          "Goblin Egg",
+          "Fried Egg"
+        ],
+        "recipe_obtained": "Received from Sandy after reaching 9 hearts of friendship"
+    },
+    {
+      "name": "Fried Mushroom",
+      "sell_price": 200,
+      "ingredients": [
+        "Fried Mushroom"
+      ],
+      "recipe_obtained": "Received from Linus at 3 hearts of friendship"
+    },
+    {
+      "name": "Pizza",
+      "sell_price": 600,
+      "ingredients": [
+        "Wheat Flour",
+        "Tomato",
+        "Cheese"
+      ],
+      "recipe_obtained": "Purchased from Gus at the Stardrop Saloon for 400g"
+    },
+    {
+      "name": "Bean Hotpot",
+      "sell_price": 150,
+      "ingredients": [
+        "Bean",
+        "Potato"
+      ],
+      "recipe_obtained": "Received from Lea after reaching 4 hearts of friendship"
+    },
+    {
+      "name": "Glazed Yams",
+      "sell_price": 200,
+      "ingredients": [
+        "Yam",
+        "Sugar"
+      ],
+      "recipe_obtained": "Received from Pam after reaching 3 hearts of friendship"
+    },
+    {
+      "name": "Carp Surprise",
+      "sell_price": 200,
+      "ingredients": [
+        "Carp",
+        "Tuna",
+        "Radish"
+      ],
+      "recipe_obtained": "Purchased from the traveling cart for 1000g"
+    },
+    {
+      "name": "Hashbrowns",
+      "sell_price": 150,
+      "ingredients": [
+        "Potato",
+        "Butter"
+      ],
+      "recipe_obtained": "Purchased from JojaMart for 150g"
+    },
+    {
+      "name": "Pancakes",
+      "sell_price": 250,
+      "ingredients": [
+        "Egg",
+        "Milk",
+        "Wheat Flour"
+      ],
+      "recipe_obtained": "Received from the Wizard after reaching 4 hearts of friendship"
+    },
+    {
+      "name": "Salmon Dinner",
+      "sell_price": 480,
+      "ingredients": [
+        "Salmon",
+        "Oil",
+        "Garlic"
+      ],
+      "recipe_obtained": "Received from Willy after reaching 7 hearts of friendship"
+    },
+    {
+      "name": "Fish Taco",
+      "sell_price": 500,
+      "ingredients": [
+        "Taco",
+        "Fish"
+      ],
+      "recipe_obtained": "Purchased from Gus for 150g"
+    },
+    {
+      "name": "Crispy Bass",
+      "sell_price": 500,
+      "ingredients": [
+        "Bass",
+        "Oil"
+      ],
+      "recipe_obtained": "Received from Willy after reaching 3 hearts of friendship"
+    },
+    {
+      "name": "Pepper Poppers",
+      "sell_price": 200,
+      "ingredients": [
+        "Pepper",
+        "Cheese"
+      ],
+      "recipe_obtained": "Purchased from the traveling cart for 1000g"
+    },
+    {
+      "name": "Bread",
+      "sell_price": 100,
+      "ingredients": [
+        "Wheat Flour"
+      ],
+      "recipe_obtained": "Purchased from Pierre's shop for 100g"
+    },
+    {
+      "name": "Tom Kha Soup",
+      "sell_price": 150,
+      "ingredients": [
+        "Coconut",
+        "Ginger",
+        "Garlic"
+      ],
+      "recipe_obtained": "Purchased from Sandy's shop for 200g"
+    },
+    {
+      "name": "Trout Soup",
+      "sell_price": 150,
+      "ingredients": [
+        "Trout"
+      ],
+      "recipe_obtained": "Received from Willy after reaching 3 hearts of friendship"
+    },
+    {
+      "name": "Chocolate Cake",
+      "sell_price": 200,
+      "ingredients": [
+        "Wheat Flour",
+        "Sugar",
+        "Egg"
+      ],
+      "recipe_obtained": "Received from Emily after reaching 3 hearts of friendship"
+    },
+    {
+      "name": "Pink Cake",
+      "sell_price": 300,
+      "ingredients": [
+        "Wheat Flour",
+        "Sugar",
+        "Egg"
+      ],
+      "recipe_obtained": "Received from Emily after reaching 7 hearts of friendship"
+    },
+    {
+      "name": "Rhubarb Pie",
+      "sell_price": 350,
+      "ingredients": [
+        "Rhubarb",
+        "Sugar",
+        "Wheat Flour"
+      ],
+      "recipe_obtained": "Purchased from Pierre's shop for 200g"
+    },
+    {
+      "name": "Cookie",
+      "sell_price": 100,
+      "ingredients": [
+        "Wheat Flour",
+        "Chocolate",
+        "Sugar"
+      ],
+      "recipe_obtained": "Purchased from Marnie's Ranch for 100g"
+    },
+    {
+      "name": "Spaghetti",
+      "sell_price": 200,
+      "ingredients": [
+        "Wheat Flour",
+        "Tomato",
+        "Garlic"
+      ],
+      "recipe_obtained": "Purchased from the Stardrop Saloon for 240g"
+    },
+    {
+      "name": "Fried Eel",
+      "sell_price": 600,
+      "ingredients": [
+        "Eel",
+        "Oil"
+      ],
+      "recipe_obtained": "Received from Willy after reaching 3 hearts of friendship"
+    },
+    {
+      "name": "Spicy Eel",
+      "sell_price": 300,
+      "ingredients": [
+        "Eel",
+        "Hot Pepper"
+      ],
+      "recipe_obtained": "Received from Willy after reaching 5 hearts of friendship"
+    },
+    {
+      "name": "Sashimi",
+      "sell_price": 200,
+      "ingredients": [
+        "Any Fish"
+      ],
+      "recipe_obtained": "Received from Sushi Chef (Willy's shop) for 100g"
+    },
+    {
+      "name": "Maki Roll",
+      "sell_price": 200,
+      "ingredients": [
+        "Seaweed",
+        "Rice"
+      ],
+      "recipe_obtained": "Received from Willy after reaching 2 hearts of friendship"
+    },
+    {
+      "name": "Tortilla",
+      "sell_price": 150,
+      "ingredients": [
+        "Corn",
+        "Wheat Flour"
+      ],
+      "recipe_obtained": "Received from Leah after reaching 2 hearts of friendship"
+    },
+    {
+      "name": "Red Plate",
+      "sell_price": 300,
+      "ingredients": [
+        "Rice",
+        "Tomato"
+      ],
+      "recipe_obtained": "Received from Emily after reaching 4 hearts of friendship"
+    },
+    {
+      "name": "Eggplant Parmesan",
+      "sell_price": 400,
+      "ingredients": [
+        "Eggplant",
+        "Cheese",
+        "Bread"
+      ],
+      "recipe_obtained": "Received from Pam after reaching 7 hearts of friendship"
+    },
+    {
+      "name": "Rice Pudding",
+      "sell_price": 200,
+      "ingredients": [
+        "Rice",
+        "Milk",
+        "Sugar"
+      ],
+      "recipe_obtained": "Received from Emily after reaching 5 hearts of friendship"
+    },
+    {
+      "name": "Ice Cream",
+      "sell_price": 250,
+      "ingredients": [
+        "Milk",
+        "Sugar"
+      ],
+      "recipe_obtained": "Purchased from the Ice Cream Stand for 250g"
+    },
+    {
+      "name": "Blueberry Tart",
+      "sell_price": 500,
+      "ingredients": [
+        "Blueberry",
+        "Wheat Flour",
+        "Sugar"
+      ],
+      "recipe_obtained": "Purchased from Pierre's Shop for 200g"
+    },
+    {
+      "name": "Autumn's Bounty",
+      "sell_price": 280,
+      "ingredients": [
+        "Pumpkin",
+        "Yam",
+        "Mushroom"
+      ],
+      "recipe_obtained": "Received from Robin after reaching 4 hearts of friendship"
+    },
+    {
+      "name": "Pumpkin Soup",
+      "sell_price": 250,
+      "ingredients": [
+        "Pumpkin",
+        "Milk"
+      ],
+      "recipe_obtained": "Received from Pam after reaching 3 hearts of friendship"
+    },
+    {
+      "name": "Super Meal",
+      "sell_price": 600,
+      "ingredients": [
+        "Artichoke",
+        "Fried Eel"
+      ],
+      "recipe_obtained": "Received from Gus after reaching 7 hearts of friendship"
+    },
+    {
+      "name": "Cranberry Sauce",
+      "sell_price": 150,
+      "ingredients": [
+        "Cranberries",
+        "Sugar"
+      ],
+      "recipe_obtained": "Received from Caroline after reaching 3 hearts of friendship"
+    },
+    {
+      "name": "Stuffing",
+      "sell_price": 200,
+      "ingredients": [
+        "Bread",
+        "Cranberries",
+        "Chestnut"
+      ],
+      "recipe_obtained": "Received from the Wizard after reaching 4 hearts of friendship"
+    },
+    {
+      "name": "Farmer's Lunch",
+      "sell_price": 380,
+      "ingredients": [
+        "Dish O' The Sea",
+        "Fried Eel"
+      ],
+      "recipe_obtained": "Received from Gus after reaching 5 hearts of friendship"
+    },
+    {
+      "name": "Survival Burger",
+      "sell_price": 200,
+      "ingredients": [
+        "Eggplant",
+        "Tortilla",
+        "Oil"
+      ],
+      "recipe_obtained": "Received from the Traveling Cart for 1000g"
+    },
+    {
+      "name": "Dish O' The Sea",
+      "sell_price": 200,
+      "ingredients": [
+        "Seafood",
+        "Oil"
+      ],
+      "recipe_obtained": "Received from Willy after reaching 3 hearts of friendship"
+    },
+    {
+      "name": "Miner's Treat",
+      "sell_price": 100,
+      "ingredients": [
+        "Chocolate Cake",
+        "Coal"
+      ],
+      "recipe_obtained": "Received from the Dwarf after reaching 1 heart of friendship"
+    },
+    {
+      "name": "Roots Platter",
+      "sell_price": 300,
+      "ingredients": [
+        "Yam",
+        "Cave Carrot",
+        "Beet"
+      ],
+      "recipe_obtained": "Received from Sandy after reaching 5 hearts of friendship"
+    },
+    {
+      "name": "Triple Shot Espresso",
+      "sell_price": 150,
+      "ingredients": [
+        "Coffee Bean",
+        "Coffee Bean",
+        "Coffee Bean"
+      ],
+      "recipe_obtained": "Purchased from the Traveling Cart for 1,000g"
+    },
+    {
+      "name": "Seafoam Pudding",
+      "sell_price": 200,
+      "ingredients": [
+        "Sea Cucumber",
+        "Red Plate"
+      ],
+      "recipe_obtained": "Received from Willy after reaching 6 hearts of friendship"
+    },
+    {
+      "name": "Algae Soup",
+      "sell_price": 100,
+      "ingredients": [
+        "Algae"
+      ],
+      "recipe_obtained": "Received from Willy after reaching 3 hearts of friendship"
+    },
+    {
+      "name": "Pale Broth",
+      "sell_price": 100,
+      "ingredients": [
+        "Sea Cucumber",
+        "Cave Carrot"
+      ],
+      "recipe_obtained": "Received from Gunther after donating to the museum"
+    },
+    {
+      "name": "Plum Pudding",
+      "sell_price": 875,
+      "ingredients": [
+        "Plum",
+        "Sugar",
+        "Milt"
+      ],
+      "recipe_obtained": "Received from Robin after reaching 8 hearts of friendship"
+    },
+    {
+      "name": "Artichoke Dip",
+      "sell_price": 200,
+      "ingredients": [
+        "Artichoke",
+        "Oil"
+      ],
+      "recipe_obtained": "Received from Robin after reaching 2 hearts of friendship"
+    },
+    {
+      "name": "Stir Fry",
+      "sell_price": 150,
+      "ingredients": [
+        "Rice",
+        "Chili Pepper",
+        "Cabbage"
+      ],
+      "recipe_obtained": "Received from Pam after reaching 2 hearts of friendship"
+    },
+    {
+      "name": "Roasted Hazelnuts",
+      "sell_price": 150,
+      "ingredients": [
+        "Hazelnut"
+      ],
+      "recipe_obtained": "Received from the Traveling Cart for 100g"
+    },
+    {
+      "name": "Pumpkin Pie",
+      "sell_price": 500,
+      "ingredients": [
+        "Pumpkin",
+        "Sugar",
+        "Flour"
+      ],
+      "recipe_obtained": "Purchased from the Traveling Cart for 500g"
+    },
+    {
+      "name": "Radish Salad",
+      "sell_price": 220,
+      "ingredients": [
+        "Radish",
+        "Oil",
+        "Vinegar"
+      ],
+      "recipe_obtained": "Received from Sandy after reaching 7 hearts of friendship"
+    },
+    {
+      "name": "Fruit Salad",
+      "sell_price": 550,
+      "ingredients": [
+        "Apple",
+        "Melon",
+        "Pineapple",
+        "Cherry"
+      ],
+      "recipe_obtained": "Received from the Traveling Cart for 600g"
+    },
+    {
+      "name": "Blackberry Cobbler",
+      "sell_price": 500,
+      "ingredients": [
+        "Blackberry",
+        "Sugar",
+        "Flour"
+      ],
+      "recipe_obtained": "Received from the Traveling Cart for 1000g"
+    },
+    {
+      "name": "Cranberry Candy",
+      "sell_price": 300,
+      "ingredients": [
+        "Cranberries",
+        "Sugar"
+      ],
+      "recipe_obtained": "Received from the Traveling Cart for 2000g"
+    },
+    {
+      "name": "Bruschetta",
+      "sell_price": 200,
+      "ingredients": [
+        "Tomato",
+        "Garlic",
+        "Bread"
+      ],
+      "recipe_obtained": "Received from the Traveling Cart for 400g"
+    },
+    {
+      "name": "Coleslaw",
+      "sell_price": 150,
+      "ingredients": [
+        "Cabbage",
+        "Vinegar",
+        "Oil"
+      ],
+      "recipe_obtained": "Received from Caroline after reaching 2 hearts of friendship"
+    },
+    {
+      "name": "Fiddlehead Risotto",
+      "sell_price": 765,
+      "ingredients": [
+        "Fiddlehead Fern",
+        "Rice",
+        "Oil"
+      ],
+      "recipe_obtained": "Received from Krobus after reaching 4 hearts of friendship"
+    },
+    {
+      "name": "Poppyseed Muffin",
+      "sell_price": 200,
+      "ingredients": [
+        "Poppy",
+        "Flour",
+        "Sugar"
+      ],
+      "recipe_obtained": "Received from Sandy after reaching 3 hearts of friendship"
+    },
+    {
+      "name": "Chowder",
+      "sell_price": 200,
+      "ingredients": [
+        "Clam",
+        "Milk",
+        "Corn"
+      ],
+      "recipe_obtained": "Received from Gus after reaching 4 hearts of friendship"
+    },
+    {
+      "name": "Fish Stew",
+      "sell_price": 200,
+      "ingredients": [
+        "Fish",
+        "Tomato",
+        "Clam"
+      ],
+      "recipe_obtained": "Received from Willy after reaching 3 hearts of friendship"
+    },
+    {
+      "name": "Escargot",
+      "sell_price": 1000,
+      "ingredients": [
+        "Escargot",
+        "Garlic",
+        "Butter"
+      ],
+      "recipe_obtained": "Received from the Traveling Cart for 1000g"
+    },
+    {
+      "name": "Lobster Bisque",
+      "sell_price": 2000,
+      "ingredients": [
+        "Lobster",
+        "Milk",
+        "Clam"
+      ],
+      "recipe_obtained": "Received from Willy after reaching 5 hearts of friendship"
+    },
+    {
+      "name": "Maple Bar",
+      "sell_price": 150,
+      "ingredients": [
+        "Maple Syrup",
+        "Flour",
+        "Sugar"
+      ],
+      "recipe_obtained": "Purchased from the Traveling Cart for 200g"
+    },
+    {
+      "name": "Crab Cakes",
+      "sell_price": 200,
+      "ingredients": [
+        "Crab",
+        "Egg",
+        "Bread"
+      ],
+      "recipe_obtained": "Received from Willy after reaching 3 hearts of friendship"
+    },
+    {
+      "name": "Shrimp Cocktail",
+      "sell_price": 700,
+      "ingredients": [
+        "Shrimp",
+        "Cocktail Sauce"
+      ],
+      "recipe_obtained": "Purchased from the Traveling Cart for 1000g"
+    },
+    {
+      "name": "Ginger Ale",
+      "sell_price": 100,
+      "ingredients": [
+        "Ginger",
+        "Carbonated Water"
+      ],
+      "recipe_obtained": "Received from the Traveling Cart for 200g"
+    },
+    {
+      "name": "Banana Pudding",
+      "sell_price": 350,
+      "ingredients": [
+        "Banana",
+        "Milk",
+        "Sugar"
+      ],
+      "recipe_obtained": "Received from Sandy after reaching 6 hearts of friendship"
+    },
+    {
+      "name": "Mango Sticky Rice",
+      "sell_price": 600,
+      "ingredients": [
+        "Mango",
+        "Rice",
+        "Coconut Milk"
+      ],
+      "recipe_obtained": "Received from Sandy after reaching 9 hearts of friendship"
+    },
+    {
+      "name": "Poi",
+      "sell_price": 200,
+      "ingredients": [
+        "Taro Root"
+      ],
+      "recipe_obtained": "Received from Sandy after reaching 7 hearts of friendship"
+    },
+    {
+      "name": "Tropical Curry",
+      "sell_price": 800,
+      "ingredients": [
+        "Mango",
+        "Tropical Fish",
+        "Coconut"
+      ],
+      "recipe_obtained": "Received from Sandy after reaching 8 hearts of friendship"
+    },
+    {
+      "name": "Squid Ink Ravioli",
+      "sell_price": 1000,
+      "ingredients": [
+        "Squid Ink",
+        "Wheat Flour",
+        "Garlic"
+      ],
+      "recipe_obtained": "Received from the Traveling Cart for 1000g"
+    },
+    {
+      "name": "Moss Soup",
+      "sell_price": 100,
+      "ingredients": [
+        "Moss"
+      ],
+      "recipe_obtained": "Received from Krobus after reaching 4 hearts of friendship"
+    }
+]      
+  

@@ -1,0 +1,622 @@
+[
+    {
+      "name": "Emerald",
+      "sources": [
+        "Emerald Gem Node (Levels 1-39 in Mines)",
+        "Dwarvish Sentry (10%)",
+        "Fishing",
+        "Panning"
+      ],
+      "sell_value": 250,
+      "used_in": [
+        "Crafting (Emerald Ring)",
+        "Gift for various villagers"
+      ]
+    },
+    {
+      "name": "Aquamarine",
+      "sources": [
+        "Aquamarine Gem Node (Levels 1-39 in Mines)",
+        "Green Slime (1.5%)",
+        "Fishing",
+        "Panning"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Aquamarine Ring)",
+        "Gift for various villagers"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "sources": [
+        "Ruby Gem Node (Levels 1-39 in Mines)",
+        "Dwarvish Sentry (10%)",
+        "Fishing",
+        "Panning"
+      ],
+      "sell_value": 250,
+      "used_in": [
+        "Crafting (Ruby Ring)",
+        "Gift for various villagers"
+      ]
+    },
+    {
+      "name": "Amethyst",
+      "sources": [
+        "Amethyst Gem Node (Levels 1-39 in Mines)",
+        "Green Slime (1.5%)",
+        "Dwarvish Sentry (10%)",
+        "Fishing",
+        "Panning"
+      ],
+      "sell_value": 50,
+      "used_in": [
+        "Crafting (Amethyst Ring)",
+        "Gift for various villagers"
+      ]
+    },
+    {
+      "name": "Topaz",
+      "sources": [
+        "Topaz Gem Node (Levels 1-39 in Mines)",
+        "Dwarvish Sentry (10%)",
+        "Fishing",
+        "Panning"
+      ],
+      "sell_value": 80,
+      "used_in": [
+        "Crafting (Topaz Ring)",
+        "Gift for various villagers"
+      ]
+    },
+    {
+      "name": "Jade",
+      "sources": [
+        "Jade Gem Node (Levels 1-39 in Mines)",
+        "Dwarvish Sentry (10%)",
+        "Fishing",
+        "Panning"
+      ],
+      "sell_value": 200,
+      "used_in": [
+        "Crafting (Jade Ring)",
+        "Gift for various villagers"
+      ]
+    },
+    {
+      "name": "Diamond",
+      "sources": [
+        "Diamond Gem Node (Mines)",
+        "Dwarvish Sentry (10%)",
+        "Fishing",
+        "Panning"
+      ],
+      "sell_value": 750,
+      "used_in": [
+        "Crafting (Diamond Ring)",
+        "Gift for various villagers"
+      ]
+    },
+    {
+      "name": "Prismatic Shard",
+      "sources": [
+        "Dropped by enemies (Rare drops)",
+        "Geodes",
+        "Fishing",
+        "Panning"
+      ],
+      "sell_value": 2000,
+      "used_in": [
+        "Crafting (Prismatic Shard)",
+        "Gift for various villagers"
+      ]
+    },
+    {
+      "name": "Quartz",
+      "sources": [
+        "Quartz Nodes (Levels 1-39 in Mines)",
+        "Green Slime (1.5%)",
+        "Fishing",
+        "Panning"
+      ],
+      "sell_value": 25,
+      "used_in": [
+        "Crafting (Quartz Ingot)",
+        "Gift for various villagers"
+      ]
+    },
+    {
+      "name": "Fire Quartz",
+      "sources": [
+        "Fire Quartz Gem Node (Levels 70-79 in Mines)",
+        "Dropped by Lava Slimes (6%)",
+        "Fishing",
+        "Panning"
+      ],
+      "sell_value": 300,
+      "used_in": [
+        "Crafting (Fire Quartz)",
+        "Gift for various villagers"
+      ]
+    },
+    {
+        "name": "Frozen Tear",
+        "sources": [
+          "Frozen Tear Gem Node (Mines Levels 1-39)",
+          "Ice Pip (Rare drop)",
+          "Fishing",
+          "Panning"
+        ],
+        "sell_value": 100,
+        "used_in": [
+          "Crafting (Frozen Tear)",
+          "Gift for various villagers"
+        ]
+    },
+    {
+      "name": "Earth Crystal",
+      "sources": [
+        "Earth Crystal Gem Node (Levels 1-39 in Mines)",
+        "Rock Carbs (10%)",
+        "Fishing",
+        "Panning"
+      ],
+      "sell_value": 50,
+      "used_in": [
+        "Crafting (Earth Crystal)",
+        "Gift for various villagers"
+      ]
+    },
+    {
+      "name": "Alamite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Alamite Bar)",
+        "Building (Used in various buildings)"
+      ]
+    },
+    {
+      "name": "Bixite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Bixite Bar)"
+      ]
+    },
+    {
+      "name": "Baryte",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Baryte Bar)"
+      ]
+    },
+    {
+      "name": "Aerinite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Aerinite Bar)"
+      ]
+    },
+    {
+      "name": "Calcite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Calcite Bar)"
+      ]
+    },
+    {
+      "name": "Dolomite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Dolomite Bar)"
+      ]
+    },
+    {
+      "name": "Esperite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Esperite Bar)"
+      ]
+    },
+    {
+      "name": "Fluorapatite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Fluorapatite Bar)"
+      ]
+    },
+    {
+      "name": "Geminite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Geminite Bar)"
+      ]
+    },
+    {
+      "name": "Helvite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Helvite Bar)"
+      ]
+    },
+    {
+      "name": "Jamborite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Jamborite Bar)"
+      ]
+    },
+    {
+      "name": "Jagoite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Jagoite Bar)"
+      ]
+    },
+    {
+      "name": "Kyanite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Kyanite Bar)"
+      ]
+    },
+    {
+      "name": "Lunarite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Lunarite Bar)"
+      ]
+    },
+    {
+      "name": "Malachite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Malachite Bar)"
+      ]
+    },
+    {
+      "name": "Neptunite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Neptunite Bar)"
+      ]
+    },
+    {
+      "name": "Lemon Stone",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Lemon Stone Bar)"
+      ]
+    },
+    {
+      "name": "Nekoite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Nekoite Bar)"
+      ]
+    },
+    {
+      "name": "Orpiment",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Orpiment Bar)"
+      ]
+    },
+    {
+      "name": "Petrified Slime",
+      "sources": [
+        "Dropped by Slimes (20%)"
+      ],
+      "sell_value": 50,
+      "used_in": [
+        "Crafting (Petrified Slime)"
+      ]
+    },
+    {
+      "name": "Thunder Egg",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Thunder Egg Bar)"
+      ]
+    },
+    {
+      "name": "Pyrite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Pyrite Bar)"
+      ]
+    },
+    {
+      "name": "Ocean Stone",
+      "sources": [
+        "Geode",
+        "Fishing (from Magma Fish Pond)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Ocean Stone Bar)"
+      ]
+    },
+    {
+      "name": "Ghost Crystal",
+      "sources": [
+        "Geode",
+        "Dropped by Ghosts (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Ghost Crystal Bar)"
+      ]
+    },
+    {
+      "name": "Tigerseye",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Tigerseye Bar)"
+      ]
+    },
+    {
+      "name": "Jasper",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Jasper Bar)"
+      ]
+    },
+    {
+      "name": "Opal",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Opal Bar)"
+      ]
+    },
+    {
+      "name": "Fire Opal",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Fire Opal Bar)"
+      ]
+    },
+    {
+      "name": "Celestine",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Celestine Bar)"
+      ]
+    },
+    {
+      "name": "Marble",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Marble Bar)"
+      ]
+    },
+    {
+      "name": "Sandstone",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Sandstone Bar)"
+      ]
+    },
+    {
+      "name": "Granite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Granite Bar)"
+      ]
+    },
+    {
+      "name": "Basalt",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Basalt Bar)"
+      ]
+    },
+    {
+      "name": "Limestone",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Limestone Bar)"
+      ]
+    },
+    {
+      "name": "Soapstone",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Soapstone Bar)"
+      ]
+    },
+    {
+      "name": "Hematite",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Hematite Bar)"
+      ]
+    },
+    {
+      "name": "Mudstone",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Mudstone Bar)"
+      ]
+    },
+    {
+      "name": "Obsidian",
+      "sources": [
+        "Geode",
+        "Dropped by enemies (5%)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Obsidian Bar)"
+      ]
+    },
+    {
+      "name": "Slate",
+      "sources": [
+        "Geode"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Slate Bar)"
+      ]
+    },
+    {
+      "name": "Fairy Stone",
+      "sources": [
+        "Geode",
+        "Mines (Lv. 1-39)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Fairy Stone Bar)"
+      ]
+    },
+    {
+      "name": "Star Shards",
+      "sources": [
+        "Dropped by enemies (5%)",
+        "Found on the beach (Spring)"
+      ],
+      "sell_value": 100,
+      "used_in": [
+        "Crafting (Star Shard Bar)"
+      ]
+    }
+]
+  

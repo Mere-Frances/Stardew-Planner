@@ -1,0 +1,201 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Courier New", Courier, monospace;
+}
+
+p {
+  margin: 0;
+}
+
+body {
+  background-image: url(../public/images/body-background.jpg);
+  background-size: cover;
+}
+
+.button-row {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  position: absolute;
+  right: 2vw;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.2vw 1vw;
+  width: -moz-fit-content;
+  width: fit-content;
+  background-color: #f8a231;
+  -o-border-image: url(https://forums.stardewvalley.net/styles/classic/woodenboxborder.png) 24 stretch;
+     border-image: url(https://forums.stardewvalley.net/styles/classic/woodenboxborder.png) 24 stretch;
+  border-image-width: 15px;
+  border-image-outset: 7px;
+}
+
+.button:active {
+  background-color: #ae6d18;
+}
+
+.delete-button {
+  padding: 0.5vw;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-image-width: 15px;
+  border-image-outset: 7px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 15vw;
+  padding: 2vw;
+  background: rgb(32, 66, 118);
+  background: linear-gradient(180deg, rgb(32, 66, 118) 0%, rgba(255, 255, 255, 0) 100%);
+}
+nav .nav-clock {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 20%;
+  height: 100%;
+  padding: 2vw 1.5vw 1.5vw 1.5vw;
+  background-image: url(../public/images/nav-clock.png);
+  background-size: cover;
+}
+nav .nav-clock p {
+  font-family: "Press Start 2P";
+  font-size: 0.9vw;
+}
+
+.header-title {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  max-width: 100%;
+  margin-bottom: -5px;
+  padding: 3vw;
+}
+.header-title .title-value {
+  border: 6px solid transparent;
+  -o-border-image: url(https://forums.stardewvalley.net/styles/classic/scrollborder.png) 24 repeat;
+     border-image: url(https://forums.stardewvalley.net/styles/classic/scrollborder.png) 24 fill repeat;
+  border-image-width: 24px;
+  border-image-outset: 6px;
+  padding: 0px 18px 0px 18px;
+  margin-top: 20px;
+  margin-bottom: 16px;
+  box-shadow: 0px 10px 5px #248;
+  text-shadow: 0px 2px 1px #d5864f;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+section {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  align-items: flex-start;
+  padding: 3vw;
+  row-gap: 0;
+  -moz-column-gap: 2vw;
+       column-gap: 2vw;
+}
+
+.content-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  transition: all 0.5s ease-in-out;
+}
+.content-container .header-title {
+  padding: 0;
+  position: absolute;
+  z-index: 5;
+}
+
+.content-container.features .block-body {
+  flex-direction: row;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 2vw;
+  height: 100%;
+}
+.content-container.features .block-body .button {
+  width: 46%;
+  height: 100%;
+}
+
+.block-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: #3f0f08;
+  background: #fff6d4;
+  border-width: 24;
+  border-style: solid;
+  border-top-color: #f7ecb3;
+  border-right-color: #f6e9a5;
+  border-bottom-color: #f4e38e;
+  border-left-color: #f6e9a5;
+  border-radius: 4px;
+  width: 100%;
+  padding: 2vw;
+  margin-top: 4vw;
+}
+.block-container .block-body {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 1vw;
+  padding-top: 0.5vw;
+}
+
+.block-container {
+  -o-border-image: url(https://forums.stardewvalley.net/styles/classic/woodenboxborder.png) 24 stretch;
+     border-image: url(https://forums.stardewvalley.net/styles/classic/woodenboxborder.png) 24 stretch;
+  border-image-width: 24px;
+  border-image-outset: 5px;
+}
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.postit-container {
+  padding: 1vw 0;
+}
+.postit-container .todo-item {
+  display: flex;
+  gap: 1vw;
+}
+.postit-container .todo-item #check {
+  accent-color: rgb(131, 226, 16);
+}
+
+footer {
+  position: relative;
+  background: rgb(192, 234, 255);
+  background: linear-gradient(180deg, rgb(192, 234, 255) 0%, rgb(255, 255, 255) 100%);
+  width: 100%;
+  height: 40vw;
+}
+footer .footer-inner {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 5;
+  background-image: url(https://forums.stardewvalley.net/styles/classic/bottom_bg5.png);
+  background-size: cover;
+}/*# sourceMappingURL=App.css.map */

@@ -1,0 +1,523 @@
+[
+    {
+      "name": "Pufferfish",
+      "base_sell_price": 200,
+      "seasons": ["Summer"],
+      "locations": ["Ocean"],
+      "time": "12:00 PM - 4:00 PM",
+      "weather": "Sunny"
+    },
+    {
+      "name": "Anchovy",
+      "base_sell_price": 30,
+      "seasons": ["Spring", "Fall"],
+      "locations": ["Ocean"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Tuna",
+      "base_sell_price": 100,
+      "seasons": ["Summer", "Winter"],
+      "locations": ["Ocean"],
+      "time": "6:00 AM - 7:00 PM",
+      "weather": "Any"
+    },
+    {
+      "name": "Sardine",
+      "base_sell_price": 40,
+      "seasons": ["Spring", "Fall", "Winter"],
+      "locations": ["Ocean"],
+      "time": "6:00 AM - 7:00 PM",
+      "weather": "Any"
+    },
+    {
+      "name": "Bream",
+      "base_sell_price": 45,
+      "seasons": ["Spring", "Fall", "Winter"],
+      "locations": ["River (Town and Forest)"],
+      "time": "6:00 PM - 2:00 AM",
+      "weather": "Any"
+    },
+    {
+      "name": "Largemouth Bass",
+      "base_sell_price": 100,
+      "seasons": ["All"],
+      "locations": ["Mountain Lake"],
+      "time": "6:00 AM - 7:00 PM",
+      "weather": "Any"
+    },
+    {
+      "name": "Smallmouth Bass",
+      "base_sell_price": 50,
+      "seasons": ["Spring", "Fall"],
+      "locations": ["River (Town)", "Forest Pond"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Rainbow Trout",
+      "base_sell_price": 65,
+      "seasons": ["Summer"],
+      "locations": ["River (Town and Forest)", "Mountain Lake"],
+      "time": "6:00 AM - 7:00 PM",
+      "weather": "Sunny"
+    },
+    {
+      "name": "Salmon",
+      "base_sell_price": 75,
+      "seasons": ["Fall"],
+      "locations": ["River (Town and Forest)"],
+      "time": "6:00 AM - 7:00 PM",
+      "weather": "Any"
+    },
+    {
+      "name": "Walleye",
+      "base_sell_price": 105,
+      "seasons": ["Fall", "Winter"],
+      "locations": ["River (Town and Forest)", "Forest Pond", "Mountain Lake"],
+      "time": "12:00 PM - 2:00 AM",
+      "weather": "Rain"
+    },
+    {
+      "name": "Perch",
+      "base_sell_price": 55,
+      "seasons": ["Winter"],
+      "locations": ["River (Town and Forest)", "Forest Pond", "Mountain Lake"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Carp",
+      "base_sell_price": 30,
+      "seasons": ["All"],
+      "locations": ["Mountain Lake", "Secret Woods", "Sewers"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Catfish",
+      "base_sell_price": 200,
+      "seasons": ["Spring", "Fall"],
+      "locations": ["River (Town and Forest)", "Secret Woods", "Witch's Swamp"],
+      "time": "6:00 AM - 12:00 AM",
+      "weather": "Rain"
+    },
+    {
+      "name": "Pike",
+      "base_sell_price": 100,
+      "seasons": ["Summer", "Winter"],
+      "locations": ["River (Town and Forest)", "Forest Pond"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Sunfish",
+      "base_sell_price": 30,
+      "seasons": ["Spring", "Summer"],
+      "locations": ["River (Town and Forest)"],
+      "time": "6:00 AM - 7:00 PM",
+      "weather": "Sunny or Windy"
+    },
+    {
+      "name": "Red Mullet",
+      "base_sell_price": 75,
+      "seasons": ["Summer", "Winter"],
+      "locations": ["Ocean"],
+      "time": "6:00 AM - 7:00 PM",
+      "weather": "Any"
+    },
+    {
+      "name": "Herring",
+      "base_sell_price": 30,
+      "seasons": ["Spring", "Winter"],
+      "locations": ["Ocean"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Eel",
+      "base_sell_price": 85,
+      "seasons": ["Spring", "Fall"],
+      "locations": ["Ocean"],
+      "time": "4:00 PM - 2:00 AM",
+      "weather": "Rain"
+    },
+    {
+      "name": "Octopus",
+      "base_sell_price": 150,
+      "seasons": ["Summer"],
+      "locations": ["Ocean"],
+      "time": "6:00 AM - 1:00 PM",
+      "weather": "Any"
+    },
+    {
+      "name": "Red Snapper",
+      "base_sell_price": 50,
+      "seasons": ["Summer", "Fall"],
+      "locations": ["Ocean"],
+      "time": "6:00 AM - 7:00 PM",
+      "weather": "Rain"
+    },
+    {
+      "name": "Squid",
+      "base_sell_price": 80,
+      "seasons": ["Winter"],
+      "locations": ["Ocean"],
+      "time": "6:00 PM - 2:00 AM",
+      "weather": "Any"
+    },
+    {
+      "name": "Sea Cucumber",
+      "base_sell_price": 75,
+      "seasons": ["Fall", "Winter"],
+      "locations": ["Ocean"],
+      "time": "6:00 AM - 7:00 PM",
+      "weather": "Any"
+    },
+    {
+      "name": "Super Cucumber",
+      "base_sell_price": 250,
+      "seasons": ["Summer", "Fall"],
+      "locations": ["Ocean"],
+      "time": "6:00 PM - 2:00 AM",
+      "weather": "Any"
+    },
+    {
+      "name": "Albacore",
+      "base_sell_price": 75,
+      "seasons": ["Fall", "Winter"],
+      "locations": ["Ocean"],
+      "time": "6:00 AM - 11:00 AM, 6:00 PM - 2:00 AM",
+      "weather": "Any"
+    },
+    {
+      "name": "Halibut",
+      "base_sell_price": 80,
+      "seasons": ["Spring", "Summer", "Winter"],
+      "locations": ["Ocean"],
+      "time": "6:00 AM - 11:00 AM, 7:00 PM - 2:00 AM",
+      "weather": "Any"
+    },
+    {
+      "name": "Stonefish",
+      "base_sell_price": 300,
+      "seasons": ["All"],
+      "locations": ["Mines (Level 20)"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Ice Pip",
+      "base_sell_price": 500,
+      "seasons": ["All"],
+      "locations": ["Mines (Level 60)"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Lava Eel",
+      "base_sell_price": 700,
+      "seasons": ["All"],
+      "locations": ["Mines (Level 100)"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Spook Fish",
+      "base_sell_price": 220,
+      "seasons": ["Winter"],
+      "locations": ["Night Market (Submarine)"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Midnight Squid",
+      "base_sell_price": 100,
+      "seasons": ["Winter"],
+      "locations": ["Night Market (Submarine)"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Slimejack",
+      "base_sell_price": 100,
+      "seasons": ["All"],
+      "locations": ["Mutant Bug Lair"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Void Salmon",
+      "base_sell_price": 150,
+      "seasons": ["All"],
+      "locations": ["Witch's Swamp"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Sturgeon",
+      "base_sell_price": 200,
+      "seasons": ["Summer", "Winter"],
+      "locations": ["Mountain Lake"],
+      "time": "6:00 AM - 7:00 PM",
+      "weather": "Any"
+    },
+    {
+      "name": "Tiger Trout",
+      "base_sell_price": 150,
+      "seasons": ["Fall", "Winter"],
+      "locations": ["River (Town and Forest)"],
+      "time": "6:00 AM - 7:00 PM",
+      "weather": "Any"
+    },
+    {
+      "name": "Legend",
+      "base_sell_price": 5000,
+      "seasons": ["Spring"],
+      "locations": ["Mountain Lake"],
+      "time": "6:00 AM - 7:00 PM",
+      "weather": "Rain"
+    },
+    {
+      "name": "Mutant Carp",
+      "base_sell_price": 1000,
+      "seasons": ["All"],
+      "locations": ["Sewers"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Crimsonfish",
+      "base_sell_price": 1500,
+      "seasons": ["Summer"],
+      "locations": ["Ocean (East Pier)"],
+      "time": "6:00 AM - 7:00 PM",
+      "weather": "Any"
+    },
+    {
+      "name": "Angler",
+      "base_sell_price": 900,
+      "seasons": ["Fall"],
+      "locations": ["River (North of JojaMart)"],
+      "time": "Any",
+      "weather": "Any"
+    },
+    {
+      "name": "Glacierfish",
+      "base_sell_price": 1000,
+      "seasons": ["Winter"],
+      "locations": ["South of Arrowhead Island (Cindersap Forest)"],
+      "time": "6:00 AM - 7:00 PM",
+      "weather": "Any"
+    },
+    {
+        "name": "Blue Discus",
+        "base_sell_price": 120,
+        "seasons": ["All"],
+        "locations": ["Ginger Island (Rivers and Ponds)"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Lionfish",
+        "base_sell_price": 100,
+        "seasons": ["All"],
+        "locations": ["Ginger Island (Ocean)"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Magma Cap",
+        "base_sell_price": 150,
+        "seasons": ["All"],
+        "locations": ["Volcano Dungeon"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Flounder",
+        "base_sell_price": 100,
+        "seasons": ["Spring", "Summer"],
+        "locations": ["Ocean", "Ginger Island (Ocean)"],
+        "time": "6:00 AM - 8:00 PM",
+        "weather": "Any"
+      },
+      {
+        "name": "Blobfish",
+        "base_sell_price": 500,
+        "seasons": ["Winter"],
+        "locations": ["Night Market (Submarine)", "Ginger Island (Ocean)"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Stingray",
+        "base_sell_price": 180,
+        "seasons": ["All"],
+        "locations": ["Pirate Cove (Ginger Island)"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Golden Carp",
+        "base_sell_price": 150,
+        "seasons": ["All"],
+        "locations": ["Desert Oasis"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Legend II",
+        "base_sell_price": 5000,
+        "seasons": ["Spring"],
+        "locations": ["Mountain Lake"],
+        "time": "6:00 AM - 7:00 PM",
+        "weather": "Rain"
+      },
+      {
+        "name": "Radioactive Carp",
+        "base_sell_price": 1000,
+        "seasons": ["All"],
+        "locations": ["Sewers"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Tropical Fish",
+        "base_sell_price": 70,
+        "seasons": ["All"],
+        "locations": ["Ginger Island (River)"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Lungfish",
+        "base_sell_price": 120,
+        "seasons": ["All"],
+        "locations": ["Ginger Island (Rivers)"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Butterfish",
+        "base_sell_price": 150,
+        "seasons": ["Fall", "Winter"],
+        "locations": ["Ginger Island (Freshwater)"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Void Ghost Salmon",
+        "base_sell_price": 150,
+        "seasons": ["All"],
+        "locations": ["The Mines (Level 100)"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Snakehead",
+        "base_sell_price": 75,
+        "seasons": ["Summer"],
+        "locations": ["River (Forest)"],
+        "time": "Any",
+        "weather": "Rain"
+      },
+      {
+        "name": "Dorado",
+        "base_sell_price": 100,
+        "seasons": ["Summer"],
+        "locations": ["River (Forest)"],
+        "time": "6:00 AM - 7:00 PM",
+        "weather": "Any"
+      },
+      {
+        "name": "Guppy",
+        "base_sell_price": 50,
+        "seasons": ["All"],
+        "locations": ["Ginger Island (River)"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Midnight Carp",
+        "base_sell_price": 150,
+        "seasons": ["Fall", "Winter"],
+        "locations": ["Forest Pond", "Mountain Lake", "Ginger Island"],
+        "time": "10:00 PM - 2:00 AM",
+        "weather": "Any"
+      },
+      {
+        "name": "Spotted Trout",
+        "base_sell_price": 130,
+        "seasons": ["Spring", "Summer"],
+        "locations": ["River (Ginger Island)"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Anglerfish",
+        "base_sell_price": 250,
+        "seasons": ["All"],
+        "locations": ["Night Market Submarine"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Icefish",
+        "base_sell_price": 500,
+        "seasons": ["Winter"],
+        "locations": ["Mountain Lake"],
+        "time": "Any",
+        "weather": "Snow"
+      },
+      {
+        "name": "Shark",
+        "base_sell_price": 600,
+        "seasons": ["All"],
+        "locations": ["Pirate Cove (Ginger Island)"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Sonar Eel",
+        "base_sell_price": 700,
+        "seasons": ["All"],
+        "locations": ["Volcano Dungeon"],
+        "time": "Any",
+        "weather": "Any"
+      },
+      {
+        "name": "Crimsonfish Jr.",
+        "base_sell_price": 3000,
+        "seasons": ["Summer"],
+        "locations": ["Ocean (East of Pelican Town)"],
+        "time": "6:00 AM - 7:00 PM",
+        "weather": "Any"
+      },
+      {
+        "name": "Radioactive Eel",
+        "base_sell_price": 1200,
+        "seasons": ["All"],
+        "locations": ["Ocean"],
+        "time": "6:00 PM - 2:00 AM",
+        "weather": "Rain"
+      },
+      {
+        "name": "Tiger Trout",
+        "base_sell_price": 150,
+        "seasons": ["Fall", "Winter"],
+        "locations": ["River (Pelican Town)"],
+        "time": "6:00 AM - 7:00 PM",
+        "weather": "Any"
+      },
+      {
+        "name": "Giant Octopus",
+        "base_sell_price": 800,
+        "seasons": ["Fall"],
+        "locations": ["Ocean (Ginger Island)"],
+        "time": "6:00 AM - 1:00 PM",
+        "weather": "Any"
+      }
+    ]    
+  

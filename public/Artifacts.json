@@ -1,0 +1,261 @@
+[
+    {
+      "name": "Anchor",
+      "source": ["Fishing Treasure Chests", "Beach Artifact Spots (worms)"],
+      "locations": ["Ocean"],
+      "sell_value": 100
+    },
+    {
+      "name": "Ancient Doll",
+      "source": ["Artifact Spots (worms)", "Fishing Treasure Chests", "Geodes"],
+      "locations": ["Forest", "Mines", "Pelican Town"],
+      "sell_value": 60
+    },
+    {
+      "name": "Ancient Drum",
+      "source": ["Artifact Spots (worms)", "Geodes"],
+      "locations": ["Mountain", "Mines"],
+      "sell_value": 100
+    },
+    {
+      "name": "Ancient Seed",
+      "source": ["Artifact Spots (worms)", "Fishing Treasure Chests", "Geodes"],
+      "locations": ["Cindersap Forest", "Mountain", "Mines"],
+      "sell_value": 30
+    },
+    {
+      "name": "Ancient Sword",
+      "source": ["Artifact Spots (worms)", "Fishing Treasure Chests"],
+      "locations": ["Cindersap Forest", "Mountain"],
+      "sell_value": 100
+    },
+    {
+      "name": "Arrowhead",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Cindersap Forest"],
+      "sell_value": 40
+    },
+    {
+      "name": "Bone Flute",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Cindersap Forest", "Ginger Island"],
+      "sell_value": 100
+    },
+    {
+      "name": "Chicken Statue",
+      "source": ["Artifact Spots (worms)", "Fishing Treasure Chests"],
+      "locations": ["Pelican Town", "Cindersap Forest"],
+      "sell_value": 50
+    },
+    {
+      "name": "Chipped Amphora",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Desert"],
+      "sell_value": 40
+    },
+    {
+      "name": "Dinosaur Egg",
+      "source": ["Artifact Spots (worms)", "Fishing Treasure Chests", "Pepper Rex Drops"],
+      "locations": ["Mountain", "Mines", "Prehistoric Floors"],
+      "sell_value": 350
+    },
+    {
+      "name": "Dried Starfish",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Beach"],
+      "sell_value": 40
+    },
+    {
+      "name": "Dwarf Gadget",
+      "source": ["Geodes"],
+      "locations": ["Mines", "Skull Cavern"],
+      "sell_value": 200
+    },
+    {
+      "name": "Dwarf Helm",
+      "source": ["Artifact Spots (worms)", "Geodes"],
+      "locations": ["Mountain"],
+      "sell_value": 50
+    },
+    {
+      "name": "Dwarvish Translation Guide",
+      "source": ["Museum Reward"],
+      "locations": ["Museum"],
+      "sell_value": 0
+    },
+    {
+      "name": "Elvish Jewelry",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Cindersap Forest"],
+      "sell_value": 200
+    },
+    {
+      "name": "Glass Shards",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Beach"],
+      "sell_value": 20
+    },
+    {
+      "name": "Golden Mask",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Desert"],
+      "sell_value": 500
+    },
+    {
+      "name": "Golden Relic",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Desert"],
+      "sell_value": 250
+    },
+    {
+      "name": "Rare Disc",
+      "source": ["Fishing Treasure Chests", "Geodes"],
+      "locations": ["Mines"],
+      "sell_value": 300
+    },
+    {
+      "name": "Prehistoric Rib",
+      "source": ["Artifact Spots (worms)", "Prehistoric Floors"],
+      "locations": ["Mountain"],
+      "sell_value": 100
+    },
+    {
+      "name": "Prehistoric Skull",
+      "source": ["Artifact Spots (worms)", "Geodes"],
+      "locations": ["Cindersap Forest", "Mines"],
+      "sell_value": 100
+    },
+    {
+      "name": "Prehistoric Handaxe",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Cindersap Forest"],
+      "sell_value": 50
+    },
+    {
+      "name": "Prehistoric Scapula",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Cindersap Forest", "Mountain"],
+      "sell_value": 100
+    },
+    {
+      "name": "Prehistoric Tibia",
+      "source": ["Artifact Spots (worms)", "Fishing Treasure Chests"],
+      "locations": ["Cindersap Forest"],
+      "sell_value": 50
+    },
+    {
+      "name": "Rusty Cog",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Cindersap Forest"],
+      "sell_value": 50
+    },
+    {
+      "name": "Rusty Spoon",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Cindersap Forest"],
+      "sell_value": 25
+    },
+    {
+      "name": "Rusty Spur",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Cindersap Forest", "Mountain"],
+      "sell_value": 25
+    },
+    {
+      "name": "Skeletal Hand",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Beach"],
+      "sell_value": 100
+    },
+    {
+      "name": "Skeletal Tail",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Mountain"],
+      "sell_value": 100
+    },
+    {
+      "name": "Snake Skull",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Ginger Island"],
+      "sell_value": 150
+    },
+    {
+      "name": "Snake Vertebrae",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Ginger Island (Dig Site)"],
+      "sell_value": 150
+    },
+    {
+      "name": "Strange Doll (Green)",
+      "source": ["Artifact Spots (worms)", "Fishing Treasure Chests"],
+      "locations": ["Pelican Town", "Mines"],
+      "sell_value": 1000
+    },
+    {
+      "name": "Strange Doll (Yellow)",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Forest"],
+      "sell_value": 1000
+    },
+    {
+      "name": "Trilobite",
+      "source": ["Artifact Spots (worms)"],
+      "locations": ["Cindersap Forest"],
+      "sell_value": 50
+    },
+    {
+        "name": "Prehistoric Tool",
+        "source": ["Artifact Spots (worms)"],
+        "locations": ["Cindersap Forest"],
+        "sell_value": 50
+      },
+      {
+        "name": "Ornamental Fan",
+        "source": ["Artifact Spots (worms)"],
+        "locations": ["Cindersap Forest"],
+        "sell_value": 300
+      },
+      {
+        "name": "Amphibian Fossil",
+        "source": ["Artifact Spots (worms)"],
+        "locations": ["Cindersap Forest"],
+        "sell_value": 150
+      },
+      {
+        "name": "Palm Fossil",
+        "source": ["Artifact Spots (worms)"],
+        "locations": ["Desert"],
+        "sell_value": 100
+      },
+      {
+        "name": "Prehistoric Vertebra",
+        "source": ["Artifact Spots (worms)"],
+        "locations": ["Cindersap Forest"],
+        "sell_value": 100
+      },
+      {
+        "name": "Fossilized Spine",
+        "source": ["Artifact Spots (worms)", "Geodes"],
+        "locations": ["Ginger Island"],
+        "sell_value": 100
+      },
+      {
+        "name": "Fossilized Tail",
+        "source": ["Artifact Spots (worms)"],
+        "locations": ["Ginger Island"],
+        "sell_value": 100
+      },
+      {
+        "name": "Fossilized Skull",
+        "source": ["Artifact Spots (worms)"],
+        "locations": ["Ginger Island"],
+        "sell_value": 200
+      },
+      {
+        "name": "Golden Pumpkin",
+        "source": ["Spirit's Eve Festival"],
+        "locations": ["Maze"],
+        "sell_value": 2500
+      }
+    ]
+    

@@ -1,0 +1,110 @@
+[
+    {
+      "name": "Dinosaur Egg",
+      "sourced_from": "Found in the Mines or received from Gunther after donating one to the museum.",
+      "base_sell_price": 350,
+      "recipes_used_in": ["Dinosaur Mayonnaise"]
+    },
+    {
+      "name": "Duck Egg",
+      "sourced_from": "Laid by ducks in the player's coop.",
+      "base_sell_price": 95,
+      "recipes_used_in": ["Duck Mayonnaise"]
+    },
+    {
+      "name": "Duck Feather",
+      "sourced_from": "Dropped by ducks during Spring and Fall.",
+      "base_sell_price": 50,
+      "recipes_used_in": ["Duck Feather"]
+    },
+    {
+      "name": "Egg",
+      "sourced_from": "Laid by chickens in the player's coop.",
+      "base_sell_price": 50,
+      "recipes_used_in": ["Mayonnaise"]
+    },
+    {
+      "name": "Goat Milk",
+      "sourced_from": "Milked from goats in the player's barn.",
+      "base_sell_price": 150,
+      "recipes_used_in": ["Goat Cheese"]
+    },
+    {
+      "name": "Golden Egg",
+      "sourced_from": "Laid by Golden Chickens, a rare variant of chickens.",
+      "base_sell_price": 500,
+      "recipes_used_in": ["Golden Mayonnaise"]
+    },
+    {
+      "name": "Large Egg",
+      "sourced_from": "Laid by well-fed and happy chickens in the player's coop.",
+      "base_sell_price": 95,
+      "recipes_used_in": ["Mayonnaise"]
+    },
+    {
+      "name": "Large Goat Milk",
+      "sourced_from": "Milked from well-fed and happy goats in the player's barn.",
+      "base_sell_price": 225,
+      "recipes_used_in": ["Goat Cheese"]
+    },
+    {
+      "name": "Large Milk",
+      "sourced_from": "Milked from well-fed and happy cows in the player's barn.",
+      "base_sell_price": 225,
+      "recipes_used_in": ["Cheese"]
+    },
+    {
+        "name": "Milk",
+        "sourced_from": "Milked from cows in the player's barn.",
+        "base_sell_price": 50,
+        "recipes_used_in": ["Cheese", "Parsnip Soup", "Vegetable Medley", "Complete Breakfast"]
+    },
+    {
+      "name": "Ostrich Egg",
+      "sourced_from": "Laid by ostriches, which can be purchased from Mr. Qi's shop after completing the 'Qi Gems' quest.",
+      "base_sell_price": 200,
+      "recipes_used_in": ["Mayonnaise"]
+    },
+    {
+      "name": "Rabbit's Foot",
+      "sourced_from": "Dropped by rabbits in the player's barn.",
+      "base_sell_price": 565,
+      "recipes_used_in": ["Lucky Lunch"]
+    },
+    {
+      "name": "Roe",
+      "sourced_from": "Produced by fish ponds when a fish is placed inside.",
+      "base_sell_price": 100,
+      "recipes_used_in": ["Fish Taco"]
+    },
+    {
+      "name": "Slime",
+      "sourced_from": "Dropped by slimes in the Mines and Skull Cavern.",
+      "base_sell_price": 5,
+      "recipes_used_in": ["Slime Egg"]
+    },
+    {
+      "name": "Slime Ball",
+      "sourced_from": "Dropped by slimes in the Mines and Skull Cavern.",
+      "base_sell_price": 50,
+      "recipes_used_in": ["Slime Egg"]
+    },
+    {
+      "name": "Truffle",
+      "sourced_from": "Found by pigs when they forage in the forest during Spring and Fall.",
+      "base_sell_price": 625,
+      "recipes_used_in": ["Truffle Oil"]
+    },
+    {
+      "name": "Void Egg",
+      "sourced_from": "Laid by Void Chickens, which can be obtained by placing a Void Egg in an incubator.",
+      "base_sell_price": 65,
+      "recipes_used_in": ["Void Mayonnaise"]
+    },
+    {
+      "name": "Wool",
+      "sourced_from": "Sheared from sheep in the player's barn.",
+      "base_sell_price": 340,
+      "recipes_used_in": ["Cloth"]
+    }
+  ]
