@@ -69,7 +69,7 @@ const TodoApp = () => {
   return (
     <div>
       <div className="input-container">
-        <input id="todoInput" type="text" placeholder="Enter a task..." />
+        <input className='input' id="todoInput" type="text" placeholder="Enter a task..." />
         <button className='button' onClick={addTodo}>Add Task</button>
       </div>
 

@@ -1,8 +1,8 @@
 import React from 'react';
 import SearchableList from './Filter';
-import Fish from '/public/Fish.json';
+import Materials from '/public/Minerals.json';
 
-const Fishing = ({ onRemove, onMagnify }) => {
+const Minerals = ({ onRemove, onMagnify }) => {
   return (
     <div>
       <div className="button-row">
@@ -11,12 +11,12 @@ const Fishing = ({ onRemove, onMagnify }) => {
         </div>
       </div>
       <SearchableList
-        data={Fish}
-        placeholder="Search Fish..."
+        data={Materials}
+        placeholder="Search Minerals..."
         onMagnify={onMagnify}
       />
     </div>
   );
 };
 
-export default Fishing;
+export default Minerals;

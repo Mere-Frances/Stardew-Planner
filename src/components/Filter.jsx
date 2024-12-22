@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const SearchableList = ({ data, placeholder }) => {
+const SearchableList = ({ data, placeholder, onMagnify }) => {
   const [searchTerm, setSearchTerm] = useState('');
   const [filteredData, setFilteredData] = useState([]);
   const [selectedItems, setSelectedItems] = useState([]);
@@ -19,7 +19,6 @@ const SearchableList = ({ data, placeholder }) => {
   };
 
   const handleSelectItem = (item) => {
-    // Add item if not already selected
     if (!selectedItems.find((selectedItem) => selectedItem.name === item.name)) {
       setSelectedItems((prev) => [...prev, item]);
     }
@@ -30,45 +29,76 @@ const SearchableList = ({ data, placeholder }) => {
   };
 
   return (
-    <div>
-      {/* Search Input */}
-      <input
-        type="text"
-        placeholder={placeholder || 'Search...'}
-        value={searchTerm}
-        onChange={handleInputChange}
-      />
+    <>
+      <div className="input-container">
+        <input
+          type="text"
+          className="input"
+          placeholder={placeholder || 'Search...'}
+          value={searchTerm}
+          onChange={handleInputChange}
+        />
+      </div>
 
-      {/* Selected Items */}
-      {selectedItems.length > 0 && (
-        <div>
-          <h3>Selected Items:</h3>
-          <ul>
-            {selectedItems.map((item) => (
-              <li key={item.name}>
-                {item.name}{' '}
-                <button onClick={() => handleRemoveItem(item.name)}>Remove</button>
-              </li>
-            ))}
-          </ul>
-        </div>
-      )}
+      <div className="filter-container">
+        {selectedItems.length > 0 && (
+          <div className="selected-results">
+            <h3>Selected Items:</h3>
+            <ul>
+              {selectedItems.map((item) => (
+                <li key={item.name}>
+                  {item.name}{' '}
+                  <div className="result-action-buttons">
+                    <div
+                      className="action-button"
+                      onClick={() => handleRemoveItem(item.name)}
+                    >
+                      <img
+                        src="https://stardewvalleywiki.com/mediawiki/images/7/79/Garbage_Can.png"
+                        alt="Delete"
+                      />
+                    </div>
+                    <div
+                      className="action-button magnify"
+                      onClick={() => onMagnify(item)}
+                    >
+                      <img
+                        src="https://stardewvalleywiki.com/mediawiki/images/5/5f/Magnifying_Glass.png"
+                        alt="Magnify"
+                      />
+                    </div>
+                  </div>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
 
-      {/* Search Results */}
-      {searchTerm && filteredData.length > 0 && (
-        <div>
-          <h3>Search Results:</h3>
-          <ul>
-            {filteredData.map((item) => (
-              <li key={item.name}>
-                {item.name}{' '}
-                <button onClick={() => handleSelectItem(item)}>Select</button>
-              </li>
-            ))}
-          </ul>
-        </div>
-      )}
-    </div>
+        {searchTerm && filteredData.length > 0 && (
+          <div className="filtered-results">
+            <h3>Search Results:</h3>
+            <ul>
+              {filteredData.map((item) => (
+                <li key={item.name}>
+                  {item.name}{' '}
+                  <div className="result-action-buttons">
+                    <div
+                      className="action-button"
+                      onClick={() => handleSelectItem(item)}
+                    >
+                      <img
+                        src="https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/32px-Energy.png"
+                        alt="Select"
+                      />
+                    </div>
+                  </div>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </div>
+    </>
   );
 };
 
